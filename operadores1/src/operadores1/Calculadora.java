@@ -24,7 +24,7 @@ public class Calculadora {
 		System.out.println("Digite o segundo número: ");
 		numero2 = leia.nextDouble();
 		
-		// Efetuar os calculos 
+		// Efetuar os calculos. 
 		
 		System.out.printf("%.2f + %.2f = %.2f%n", numero1, numero2, numero1 + numero2); // para soma
 		// neste caso o operador é +
