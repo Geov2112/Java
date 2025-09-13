@@ -23,6 +23,7 @@ public class Exercicio2 {
 		System.out.println("Adicione a quarta nota: ");
 		numero4 = leia.nextDouble();
 		
+		
 		System.out.println("A média é:") ;
 		
 		System.out.printf("(%.1f + %.1f + %.1f + %.1f) / 4 = %.1f%n ", numero1, numero2, numero3, numero4, (numero1 + numero2 + numero3 + numero4) / 4) ;

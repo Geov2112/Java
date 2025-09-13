@@ -17,7 +17,6 @@ public class Exercicio1 {
 		numero2 = leia.nextDouble();
 		
 		
-		
 		System.out.printf("o novo salário é: %.2f%n",  numero1 + numero2);
 		
 	
