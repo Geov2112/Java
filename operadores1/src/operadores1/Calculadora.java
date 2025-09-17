@@ -39,6 +39,6 @@ public class Calculadora {
 		// abaixo operações que utilizam a biblioteca 'math'
 		System.out.printf("%.2f ^ %.2f = %.2f%n", numero1, numero2, Math.pow(numero1 , numero2)); // Para potência 
 		System.out.printf("Raiz Quadrada de %.2f = %.2f%n", numero1, Math.sqrt(numero1)); // Para Raiz quadrada
-		
+		leia.close();
 	}
 }
